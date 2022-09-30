@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React Manoj Shenoy 2
+          Learn React Manoj Shenoy 2 update from branch - C110855_mshenoy_update_app
         </a>
       </header>
     </div>
